@@ -6,8 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/ChangleSecond/ChangleSecond.iml" filepath="$PROJECT_DIR$/ChangleSecond/ChangleSecond.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCodeSolve/LeetCodeSolve.iml" filepath="$PROJECT_DIR$/LeetCodeSolve/LeetCodeSolve.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatLearn/PatLearn.iml" filepath="$PROJECT_DIR$/PatLearn/PatLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScalaLearn/ScalaLearn.iml" filepath="$PROJECT_DIR$/ScalaLearn/ScalaLearn.iml" />
       <module fileurl="file://$PROJECT_DIR$/Uva/Uva.iml" filepath="$PROJECT_DIR$/Uva/Uva.iml" />
       <module fileurl="file://$PROJECT_DIR$/code.iml" filepath="$PROJECT_DIR$/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiaoTrain/lanqiaoTrain.iml" filepath="$PROJECT_DIR$/lanqiaoTrain/lanqiaoTrain.iml" />
     </modules>
   </component>
 </project>
